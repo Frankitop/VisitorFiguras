@@ -1,0 +1,10 @@
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/bin/Debug/net8.0/VisitorFiguras
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/bin/Debug/net8.0/VisitorFiguras.dll
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/bin/Debug/net8.0/VisitorFiguras.pdb
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/VisitorFiguras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/VisitorFiguras.AssemblyInfoInputs.cache
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/VisitorFiguras.AssemblyInfo.cs
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/VisitorFiguras.csproj.CoreCompileInputs.cache
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/VisitorFiguras.dll
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/refint/VisitorFiguras.dll
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/VisitorFiguras.pdb
