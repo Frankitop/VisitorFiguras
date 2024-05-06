@@ -8,3 +8,4 @@
 /Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/VisitorFiguras.dll
 /Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/refint/VisitorFiguras.dll
 /Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/VisitorFiguras.pdb
+/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/Debug/net8.0/VisitorFiguras.sourcelink.json
