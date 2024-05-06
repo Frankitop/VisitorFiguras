@@ -14,8 +14,9 @@ foreach (var figura in figuras) {
     figura.Accept(calculadoraArea);
 }
 
-// var calculadoraPerimetro = new CalculadoraPerimetro();
-//
-// foreach (var figura in figuras) {
-//     figura.Accept(calculadoraPerimetro);
-// }
+
+var calculadoraPerimetro = new CalculadoraPerimetro();
+
+foreach (var figura in figuras) {
+    figura.Accept(calculadoraPerimetro);
+}
