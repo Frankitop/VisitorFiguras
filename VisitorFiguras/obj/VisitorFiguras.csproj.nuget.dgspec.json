@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/VisitorFiguras.csproj": {}
+    "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/PatronVisitor/VisitorFiguras/VisitorFiguras.csproj": {}
   },
   "projects": {
-    "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/VisitorFiguras.csproj": {
+    "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/PatronVisitor/VisitorFiguras/VisitorFiguras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/VisitorFiguras.csproj",
+        "projectUniqueName": "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/PatronVisitor/VisitorFiguras/VisitorFiguras.csproj",
         "projectName": "VisitorFiguras",
-        "projectPath": "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/VisitorFiguras.csproj",
+        "projectPath": "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/PatronVisitor/VisitorFiguras/VisitorFiguras.csproj",
         "packagesPath": "/Users/francopiriz/.nuget/packages/",
-        "outputPath": "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/obj/",
+        "outputPath": "/Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/PatronVisitor/VisitorFiguras/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/francopiriz/.nuget/NuGet/NuGet.Config"

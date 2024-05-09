@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VisitorFiguras
-build_property.ProjectDir = /Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/VisitorFiguras/VisitorFiguras/
+build_property.ProjectDir = /Users/francopiriz/Documents/Diseño Aplicaciones 2/Proyectos/PatronVisitor/VisitorFiguras/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
